@@ -12,3 +12,4 @@ You should answer as if you were writting production code within your team. You 
 
 Please send us the link to your github repository with the answer of the exercise. 
 
+NOTE: The logging level can be changed from the constants page.
